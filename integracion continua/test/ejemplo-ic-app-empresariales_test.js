@@ -3,10 +3,10 @@
 var ejemploIcAppEmpresariales = require('../');
 var assert = require('should');
 
-describe('empresarialesIcNode', function () {
+describe('ejemploIcAppEmpresariales', function () {
 
   it('should be awesome', function () {
-    empresarialesIcNode().should.equal('awesome');
+    ejemploIcAppEmpresariales().should.equal('awesome');
   });
 
 });
